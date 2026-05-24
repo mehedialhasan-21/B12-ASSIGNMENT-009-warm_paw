@@ -2,8 +2,6 @@
 
 WarmPaws is a cozy winter pet care platform for browsing seasonal services, booking care, and managing a simple user profile.
 
-## Live URL
-
 ## Features
 
 - Winter themed home page with Swiper hero slider
@@ -26,3 +24,6 @@ WarmPaws is a cozy winter pet care platform for browsing seasonal services, book
 - react-hot-toast
 - lucide-react
 
+## Live URL
+Libe link : https://b12-a9-warmpaw.netlify.app/
+Github repo : https://github.com/mehedialhasan-21/B12-ASSIGNMENT-009-warm_paw
